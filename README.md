@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+# ✨ Radiance Clinic Website — Powered by Next.js
 
-## Project info
+A sleek, responsive, and SEO-friendly website for **Radiance Clinic**, developed with **Next.js** and modern web tools. This site is designed to reflect the elegance, professionalism, and care associated with wellness, skincare, and beauty services.
 
-**URL**: https://lovable.dev/projects/352254af-21e1-40bd-b6f8-8b1ff780c3ee
+---
 
-## How can I edit this code?
+## 🌟 Project Summary
 
-There are several ways of editing your application.
+**Radiance Clinic Website** enables users to:
 
-**Use Lovable**
+- Explore services like skincare, laser treatment, cosmetic procedures, etc.
+- View detailed information about specialists and treatments
+- Book online appointments with real-time form validation
+- Navigate seamlessly across mobile, tablet, and desktop devices
+- Locate the clinic easily via embedded Google Maps
+- Experience fast loading and optimized SEO with server-side rendering
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/352254af-21e1-40bd-b6f8-8b1ff780c3ee) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Live Demo
 
-**Use your preferred IDE**
+> [🔗 Visit Radiance Clinic Website](https://your-deployment-url.com)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+*(Add a screenshot or GIF preview here)*
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+| Tech               | Description                                  |
+|--------------------|----------------------------------------------|
+| [Next.js](https://nextjs.org/)         | React Framework for SSR and SSG          |
+| [Tailwind CSS](https://tailwindcss.com/)| Utility-first CSS framework              |
+| [React Hook Form](https://react-hook-form.com/) | Lightweight forms and validation     |
+| [Yup](https://github.com/jquense/yup)  | Schema validation for forms              |
+| [Heroicons](https://heroicons.com/)    | Beautiful icons for UI elements          |
+| [Vercel](https://vercel.com/)          | Deployment and hosting platform          |
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📁 Folder Structure
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```
+radiance-clinic/
+├── public/                # Static files (images, favicon, etc.)
+├── components/            # Reusable UI components (Navbar, Footer, etc.)
+├── pages/                 # Route-based pages (home, services, about, contact)
+├── styles/                # Global styles or Tailwind config
+├── data/                  # Static or mock data (services, doctors)
+├── utils/                 # Utility functions
+├── .env.local             # Environment variables
+├── next.config.js         # Next.js configuration
+├── tailwind.config.js     # Tailwind CSS configuration
+└── README.md
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📋 Features
 
-**Use GitHub Codespaces**
+- 🌐 SEO-optimized with custom metadata
+- 📱 Fully responsive and mobile-first layout
+- 📸 Services & Treatments page with images
+- 🧑‍⚕️ Doctor/Expert profiles
+- 📅 Appointment booking form with validation
+- 🗺️ Embedded Google Maps on contact page
+- 🧠 Fast performance with SSR/SSG capabilities
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## ⚙️ Getting Started
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/352254af-21e1-40bd-b6f8-8b1ff780c3ee) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+###
